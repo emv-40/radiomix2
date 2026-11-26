@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": "classic_rock_florida",
+      "name": "Classic Rock Florida",
+      "streamUrl": "https://streaming.live365.com/a06375",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/2/26822.v8.png",
+      "genre": "Classic Rock",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/classicrockflorida/playlist/0"
+    },
+    {
+      "id": "4u_classic_rock",
+      "name": "4U Classic Rock",
+      "streamUrl": "https://str4uice.streamakaci.com/4uclassicrock.mp3",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/15394.v3.png",
+      "genre": "Classic Rock",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/4uclassicrock/playlist/0"
+    },
+    {
+      "id": "1000_hits_80s",
+      "name": "1000 Hits 80s",
+      "streamUrl": "https://ais-sa9.cdnstream1.com/1898_128",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/8/63108.v19.png",
+      "genre": "80s Hits",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/1000hits80s/playlist/0"
+    },
+    {
+      "id": "smooth_radio_london",
+      "name": "Smooth Radio London",
+      "streamUrl": "https://media-ssl.musicradio.com/SmoothLondonMP3",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/964.v14.png",
+      "genre": "Smooth / Easy Listening",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/uk/smoothradio1022/playlist/0"
+    },
+    {
+      "id": "gold_instrumental",
+      "name": "Gold Instrumental",
+      "streamUrl": "https://centova2.svdns.com.br:20038/stream",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/7/57037.v54.png",
+      "genre": "Instrumental / Easy Listening",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/br/goldinstrumental/playlist/0"
+    },
+    {
+      "id": "101_smooth_jazz",
+      "name": "101 Smooth Jazz",
+      "streamUrl": "https://jking.cdnstream1.com/b22139_128mp3",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/43344.v12.png",
+      "genre": "Jazz / Easy Listening / Smooth Jazz / Instrumental",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/101smoothjazz/playlist/0"
+    },
+    {
+      "id": "blues_radio",
+      "name": "Blues Radio",
+      "streamUrl": "https://i4.streams.ovh/sc/bluesrad/stream",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/3/15543.v20.png",
+      "genre": "Rock / R'n'B / Blues / Soul",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/gr/bluesradio/playlist/0"
+    },
+    {
+      "id": "rockabilly_radio",
+      "name": "Rockabilly Radio",
+      "streamUrl": "https://rradio.fastserv.com/hifi",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/3/9533.v18.png",
+      "genre": "Rock'n'Roll / Rockabilly / Swing",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/uk/rockabillyradio/playlist/0"
+    },
+    {
+      "id": "cafe_romantico_radio",
+      "name": "Café Romántico Radio",
+      "streamUrl": "https://panel.retrolandigital.com/listen/cafe_romantico_radio/listen",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/1/7351.v85.png",
+      "genre": "Pop / Retro / Latin / Romantic / Love Songs",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/mx/caferomanticoradio/playlist/0"
+    },
+    {
+      "id": "arrow_classic_rock",
+      "name": "Arrow Classic Rock",
+      "streamUrl": "https://stream.player.arrow.nl/arrow",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/6/11006.v5.png",
+      "genre": "Rock / Classic Rock",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/nl/arrowclassicrock/playlist/0"
+    },
+    {
+      "id": "soft_rock_radio",
+      "name": "Soft Rock Radio",
+      "streamUrl": "https://gold.streamguys1.com/softrock.mp3",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/7/43347.v10.png",
+      "genre": "Classic Rock / Soft Rock",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/softrockusa/playlist/0"
+    },
+    {
+      "id": "easy_hits_florida",
+      "name": "Easy Hits Florida",
+      "streamUrl": "https://streaming.live365.com/a80304",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/26834.v4.png",
+      "genre": "Pop / 90s / 80s / 70s / Oldies",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/us/easyhitsflorida/playlist/0"
+    },
+    {
+      "id": "klassik_radio",
+      "name": "Klassik Radio",
+      "streamUrl": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-8877033",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/33024.v13.png",
+      "genre": "Lounge / Classic / Soundtrack",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/de/klassik/playlist/0"
+    },
+    {
+      "id": "lounge_radio",
+      "name": "Lounge Radio",
+      "streamUrl": "https://stream.laut.fm/loungeradio",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/3/49603.v5.png",
+      "genre": "Lounge / Jazz / Ambient / Deep House",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/de/lounge/playlist/0"
+    },
+    {
+      "id": "hitradio_oldies",
+      "name": "Hitradio Oldies",
+      "streamUrl": "https://stream.laut.fm/hitradiooldies",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/9/112549.v48.png",
+      "genre": "Rock / Disco / Pop / Country",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/de/hitoldies/playlist/0"
+    },
+    {
+      "id": "total_instrumental",
+      "name": "Total instrumental",
+      "streamUrl": "https://total-instrumental.stream.laut.fm/total-instrumental",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/9/32619.v3.png",
+      "genre": "Ambient / Easy Listening / Soundtrack / Instrumental",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/de/totalinstrumental/playlist/0"
+    },
+    {
+      "id": "rock_angels_radio",
+      "name": "Rock Angels Radio",
+      "streamUrl": "https://azuracast.streams.ovh/radio/8030/radio.mp3",
+      "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/97594.v20.png",
+      "genre": "Rock / Heavy Metal / Classic Rock / Punk / Greek",
+      "notes": "",
+      "isFavorite": false,
+      "metadataApiUrl": "https://onlineradiobox.com/json/gr/rockangels/playlist/0"
+    }
+  ]
+}
